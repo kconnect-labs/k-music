@@ -31,7 +31,7 @@ K-Music — мобильное приложение для прослушива�
 ```bash
 # Клонирование репозитория
 git clone https://github.com/kconnect-labs/k-music.git
-cd k-music-mobile
+cd k-music
 
 # Установка зависимостей
 npm install
