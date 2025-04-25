@@ -1,0 +1,2 @@
+// Simple transparent 1x1 PNG in base64 to use as a fallback
+export const EMPTY_IMAGE = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+P+/HgAEtAJJXIDTjgAAAABJRU5ErkJggg=='; 
