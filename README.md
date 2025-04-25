@@ -1,6 +1,6 @@
 # K-Music Mobile App
 
-![K-Music Logo](https://k-connect.ru/icon-192.png)
+![K-Music Logo](https://k-connect.ru/static/uploads/post/1603/adaptive-icon.png)
 
 
 ## 🌟 О проекте
